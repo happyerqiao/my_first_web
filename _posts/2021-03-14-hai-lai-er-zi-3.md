@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "你想知道的海来尔子"
-background: "/assets/images/erzi.jpg"
+background: "/assets/images/DSCF1985.JPG"
 category: "介绍"
 tags: 问答
 ---
