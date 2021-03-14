@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "知道你窝在家想找点事，一块钱来开黑学编程!"
+title:  "我们都是少年"
 background: "/assets/images/7B1A9600.jpg"
 category: "生活"
 tags: 感悟
