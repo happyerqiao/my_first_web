@@ -2,7 +2,7 @@
 layout: post
 title:  ""
 background: "/assets/images/尔子.jpg"
-category: "工作"
+category: "生活"
 tags: 感悟
 ---
 
