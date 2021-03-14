@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "唱响生命的女孩"
-background: "/assets/images/755A9481.jpg"
+background: "/assets/images/755A9481.JPG"
 category: "生活"
 tags: 介绍 feature
 ---
