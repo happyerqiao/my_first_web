@@ -3,11 +3,11 @@ layout: post
 title:  "你想知道的海来尔子"
 background: "/assets/images/WEN07842.jpg"
 category: "介绍"
-tags: 感悟
+tags: 问答
 ---
 
 - Q：平时的兴趣爱好有哪些？
-- 特别喜欢唱歌
+-特别喜欢唱歌
 
 - Q：什么时候开始学习棒球的？
 -4个月前
